@@ -1,0 +1,10 @@
+{
+  "description": "Enables precise replication of design layouts pixel-perfectly, ensuring accurate visual consistency for designers and developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
